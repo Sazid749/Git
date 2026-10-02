@@ -6,7 +6,7 @@ int main()
     scanf("%d",&a);
     b=2*3*a;
     c=b-1;
-    printf("\n%d",2*a);
+    printf("%d",2*a);
     printf("\n%d",b);
     printf("\n%d",c);
     printf("\nI am Sazid ........");
