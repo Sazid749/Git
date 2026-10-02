@@ -11,5 +11,6 @@ int main()
     printf("\n%d",c);
     printf("\nI am Sazid ........");
     printf("\n*00*");
-     return 0;
+    printf("\nMPCS MABS NDC BUET");
+    return 0;
 }
